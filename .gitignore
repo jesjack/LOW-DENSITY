@@ -1,0 +1,75 @@
+low-density-front/dist
+low-density-front/tmp
+low-density-front/out-tsc
+low-density-front/bazel-out
+
+# Nodelow-density-front
+low-density-front/node_modules
+low-density-front/npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+low-density-front/.idea/
+low-density-front/.project
+low-density-front/.classpath
+low-density-front/.c9/
+low-density-front/*.launch
+low-density-front/.settings/
+low-density-front/*.sublime-workspace
+
+# Visual Studio Code
+low-density-front/.vscode/*
+low-density-front/!.vscode/settings.json
+low-density-front/!.vscode/tasks.json
+low-density-front/!.vscode/launch.json
+low-density-front/!.vscode/extensions.json
+.history/*
+
+# Miscellaneous
+low-density-front/.angular/cache
+low-density-front/.sass-cache/
+low-density-front/connect.lock
+low-density-front/coverage
+low-density-front/libpeerconnection.log
+low-density-front/testem.log
+low-density-front/typings
+
+# System files
+low-density-front/.DS_Store
+low-density-front/Thumbs.db
+
+# compiled output
+low-density-back/dist
+low-density-back/node_modules
+
+# Logs
+logs
+low-density-back/*.log
+low-density-back/npm-debug.log*
+low-density-back/pnpm-debug.log*
+low-density-back/yarn-debug.log*
+low-density-back/yarn-error.log*
+low-density-back/lerna-debug.log*
+
+# OS
+low-density-back/.DS_Store
+
+# Tests
+low-density-back/coverage
+low-density-back/.nyc_output
+
+# IDEs and editors
+low-density-back/.idea
+low-density-back/.project
+low-density-back/.classpath
+low-density-back/.c9/
+low-density-back/*.launch
+low-density-back/.settings/
+low-density-back/*.sublime-workspace
+
+# IDE - VSCode
+low-density-back/.vscode/*
+low-density-back/!.vscode/settings.json
+low-density-back/!.vscode/tasks.json
+low-density-back/!.vscode/launch.json
+low-density-back/!.vscode/extensions.json
